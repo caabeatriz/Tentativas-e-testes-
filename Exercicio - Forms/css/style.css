@@ -1,0 +1,44 @@
+*{
+    font-size: 20px;
+}
+
+body{
+    background-color:yellow;
+    width: 60%;
+}
+
+select{
+
+    background-color: blue;
+    margin: 10px;
+}
+.Formulario_geral
+{
+
+    display: inline-block;
+   background-color: blueviolet;
+      text-align: center;
+     width: 160%;
+}
+
+input{
+    border-radius: 2px solid yellow;
+}
+
+.Geral_MultiplasEscolhas{
+    background-color: orange;
+    display: inline-block;
+    width: 450px;
+    
+}
+
+.checkbox__Multiplasecolhas
+{
+    width: 60%;
+    background-color: chartreuse;
+}
+
+.Opcoes_MutiplasEscolhas{
+    background-color: rgb(253, 18, 214);
+   
+}

@@ -1,0 +1,31 @@
+body{
+    background-color:yellow;
+    width: 60%;
+}
+
+.Formulario_geral
+{
+
+    display: inline-block;
+   background-color: blueviolet;
+      text-align: center;
+       width: 180%;
+}
+
+input{
+    border-radius: 2px solid yellow;
+}
+
+
+
+h1{
+    width: 50%;
+}
+
+.checkbox__M{
+    display: inline-block;
+    position: center;
+    width: 700px;
+    height: 100px;
+    background-color: pink;
+}
